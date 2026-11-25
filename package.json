@@ -1,0 +1,15 @@
+{
+  "name": "forooshyar-core",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Bounded multi-agent communication protocol (Hydra ACP) and 2-round Senate orchestration engine.",
+  "scripts": {
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vitest": "^3.2.7"
+  }
+}
